@@ -6,5 +6,7 @@ Taking early initiative and getting the new generation interested in Cyber Secur
 
 # Resources
 [Questions Doc](https://docs.google.com/document/d/1_NKoMTrUVEQpv139gwnkQdBKeVO_SKwk6kqwSMqP8uQ/edit?usp=sharing)
+
 [Slide Deck](https://docs.google.com/presentation/d/11JnZ7to7eLzEkbAd9X936dCoOchcG8p10zernAKkH_M/edit?usp=sharing)
+
 [Trello](https://trello.com/b/jx6fCUgQ/cybersecurity)
